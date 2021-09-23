@@ -29,7 +29,7 @@ void main()
 				exit(1);
 			}
 		default:
-			printf("invalid operator");
+			printf("invalid operator.Try again");
 			exit(1);
 		
 			
